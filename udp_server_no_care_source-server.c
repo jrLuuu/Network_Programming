@@ -1,6 +1,8 @@
-#include<stdio.h>
-#include<winsock.h>
-int main(){
+#include <stdio.h>
+#include <winsock.h>
+
+int main()
+{
 	SOCKET sd;
 	WSADATA wsadata;
 	struct sockaddr_in serv,clnt;
@@ -10,10 +12,10 @@ int main(){
 	char str[100];
 	char *ip;
 	int port;
-	int n,i;
-	n = WSAStartup(0x101,(WSADATA *) &wsadata);
+	int n, i;
 
-	sd = socket(AF_INET,SOCK_DGRAM,0);
+	n = WSAStartup(0x101,(WSADATA *) &wsadata);
+	sd = socket(AF_INET,SOCK_DGRAM, 0);
 
 	int len_serv = sizeof(serv);
 	int len_clnt = sizeof(clnt);
@@ -21,9 +23,10 @@ int main(){
 
 	printf("Ready to recv on 12345...\n");
 	while(1){
-		n = recv (sd, str ,100, 0 );   //change here
-		printf("recv:%s (%d) \n",str,n,ip,port);
+		n = recv (sd, str, 100, 0);
+		printf("recv:%s (%d) \n", str, n, ip, port);
 	}
+
 	closesocket(sd);
 	WSACleanup();
 	system("pause");
