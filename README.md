@@ -12,6 +12,8 @@
 
 [Week7](https://hackmd.io/_lf_jJgYR8SFWoYRHQI39w)
 
+> [Midterm questions](https://hackmd.io/aw3QPejSTrKUXVihSrvSHA)
+
 [Week11](https://hackmd.io/SHC588FaQ_6AnrbZ1C1Igw)
 
 [Week12](https://hackmd.io/gsOamW36TdKG3dmVMYuTmg)
