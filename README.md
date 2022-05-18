@@ -18,4 +18,12 @@
 
 [Week12](https://hackmd.io/gsOamW36TdKG3dmVMYuTmg)
 
+[Week13](https://hackmd.io/X8nX0tSdST6tGo3-Y7WScg)
+
+[Week14](https://hackmd.io/eE80V3bHQDWDPTj8PFGbQQ)
+
+[Week15](https://hackmd.io/KKODFMoGRmeS_xpoTO8uXw)
+
+> [Final questions](https://hackmd.io/flyg6-fuTIqGk36AASLXkA)
+
 ###### tags: `Network Programming`
