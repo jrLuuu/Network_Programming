@@ -1,5 +1,7 @@
 # Network Programming Class
 
+[![hackmd-github-sync-badge](https://hackmd.io/hEuqNv46RTik8aWuOosiYQ/badge)](https://hackmd.io/hEuqNv46RTik8aWuOosiYQ)
+
 [Week2](https://hackmd.io/_BvYy4iBQkypfQvApxDkkw)
 
 [Week3](https://hackmd.io/fzo5qLS_Qx2tFzTJlW8FmQ)
