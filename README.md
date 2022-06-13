@@ -2,30 +2,16 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/hEuqNv46RTik8aWuOosiYQ/badge)](https://hackmd.io/hEuqNv46RTik8aWuOosiYQ)
 
-[Week2](https://hackmd.io/_BvYy4iBQkypfQvApxDkkw)
 
-[Week3](https://hackmd.io/fzo5qLS_Qx2tFzTJlW8FmQ)
+| [Week2](https://hackmd.io/@XsEuHxcdSaa3-hiQpVM4oQ/S1CrZNQe9) | [Week3](https://hackmd.io/@XsEuHxcdSaa3-hiQpVM4oQ/HJfrzvhgq) | [Week4](https://hackmd.io/@XsEuHxcdSaa3-hiQpVM4oQ/rkOxZeBZ5) | [Week4](https://hackmd.io/@XsEuHxcdSaa3-hiQpVM4oQ/rkOxZeBZ5) | [Week5](https://hackmd.io/@XsEuHxcdSaa3-hiQpVM4oQ/Sy9pEa2-9) | [Week6](https://hackmd.io/@XsEuHxcdSaa3-hiQpVM4oQ/HkvkAH4Mq) | [Week7](https://hackmd.io/@XsEuHxcdSaa3-hiQpVM4oQ/H1F5Z1xX9) |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 
-[Week4](https://hackmd.io/CHwYu6OMRrmzT-S5SyTzzQ)
+> [Midterm questions](https://hackmd.io/@XsEuHxcdSaa3-hiQpVM4oQ/HJM81AN8c)
 
-[Week5](https://hackmd.io/sTN520pLS1qdhG2FEbw0Bw)
+| [Week11](https://hackmd.io/@XsEuHxcdSaa3-hiQpVM4oQ/B16HmVIrc) | [Week12](https://hackmd.io/@XsEuHxcdSaa3-hiQpVM4oQ/B15LFz2H5) | [Week13](https://hackmd.io/@XsEuHxcdSaa3-hiQpVM4oQ/HJaIqVfUc) | [Week14](https://hackmd.io/@XsEuHxcdSaa3-hiQpVM4oQ/SJ-pI7-P9) | [Week15](https://hackmd.io/@XsEuHxcdSaa3-hiQpVM4oQ/rJvQAQzPq) | [GUI chat room in python](https://hackmd.io/@XsEuHxcdSaa3-hiQpVM4oQ/BJjPNE4Yc) | 
+| -------- | -------- | -------- | -------- | -------- | -------- |
 
-[Week6](https://hackmd.io/XE96XFTbSPSpv6HdpNW13w)
 
-[Week7](https://hackmd.io/_lf_jJgYR8SFWoYRHQI39w)
-
-> [Midterm questions](https://hackmd.io/aw3QPejSTrKUXVihSrvSHA)
-
-[Week11](https://hackmd.io/SHC588FaQ_6AnrbZ1C1Igw)
-
-[Week12](https://hackmd.io/gsOamW36TdKG3dmVMYuTmg)
-
-[Week13](https://hackmd.io/X8nX0tSdST6tGo3-Y7WScg)
-
-[Week14](https://hackmd.io/eE80V3bHQDWDPTj8PFGbQQ)
-
-[Week15](https://hackmd.io/KKODFMoGRmeS_xpoTO8uXw)
-
-> [Final questions](https://hackmd.io/flyg6-fuTIqGk36AASLXkA)
+> [Final questions](https://hackmd.io/@XsEuHxcdSaa3-hiQpVM4oQ/S1QuAQMvc)
 
 ###### tags: `Network Programming`
